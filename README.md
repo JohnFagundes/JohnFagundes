@@ -8,7 +8,7 @@ Sergipano, apreciador de artes marciais e outros esportes como corrida e escalad
 
 * 🌍  Sou de Itabaiana-SE
 * ✉️  Você pode me contatar em [jvfagundes329@gmail.com](mailto:jvfagundes329@gmail.com)
-* 🧠  Estou aprendendo HTML | CSS | JavaScript | React | Node.js | SQL
+* 🧠  Desenvolvedor Fullstack | HTML | CSS | JavaScript | React | Node.js | SQL
 * 🤝  Estou disposto a colaborar em Projetos interessantes e desafiadores
 
 ### Skills
