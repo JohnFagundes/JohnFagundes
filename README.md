@@ -6,7 +6,7 @@ Desenvolvedor Full Stack
 
 Sergipano, apreciador de artes marciais e outros esportes como corrida e escalada. Em 2020 tive meu primeiro contato com programação, ao final de 2022 Ingressei no curso de Sistemas de Informação na faculdade descomplica e em 2023 iniciei minha jornada em um curso intensivo como aluno de Desenvolvimento de Software Full Stack ministrado pela Cubos Academy.
 
-* 🌍  Sou de Itabaiana-SE
+* 🌍  Sou de Aracaju-SE
 * ✉️  Você pode me contatar em [jvfagundes329@gmail.com](mailto:jvfagundes329@gmail.com)
 * 🧠  Desenvolvedor Fullstack | HTML | CSS | JavaScript | React | Node.js | SQL
 * 🤝  Estou disposto a colaborar em Projetos interessantes e desafiadores
