@@ -1,7 +1,7 @@
 Olar ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Me chamo João Victor Fagundes
 ============================================================================================================================================
 
-Desenvolvedor Full Stack
+Desenvolvedor Back-end
 ------------------------
 
 Sergipano, apreciador de artes marciais e outros esportes como corrida e escalada. Em 2020 tive meu primeiro contato com programação, ao final de 2022 Ingressei no curso de Sistemas de Informação na faculdade descomplica e em 2023 iniciei minha jornada em um curso intensivo como aluno de Desenvolvimento de Software Full Stack ministrado pela Cubos Academy.
